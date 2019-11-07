@@ -1,0 +1,23 @@
+{
+  "name": "SQLite3DBAnalyzer",
+  "version": "0.0.1",
+  "description": "SQLite3 database Analyzer",
+  "main": "main.js",
+  "repository": "https://github.com/rubydongle/SQLite3DBAnalyzer",
+  "keywords": [
+    "sqlite3",
+    "file format",
+    "hex viewer"
+  ],
+  "author": "ruby.dongle@gmail.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "^3.0.9"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
